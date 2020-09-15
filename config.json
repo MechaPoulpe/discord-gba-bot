@@ -1,0 +1,17 @@
+{
+    "token": "DISCORD TOKEN",
+    "serverId": "SERVER ID",
+    "playChannel": "CHANNEL ID",
+    "delayScreenshot": 1500,
+    "delayInactivity": 25000,
+    "right": "right",
+    "left": "left",
+    "up": "up",
+    "down": "down",
+    "a": "a",
+    "b": "b",
+    "r": "r",
+    "l": "l",
+    "start": "start",
+    "select": "select"
+}
